@@ -1,8 +1,8 @@
 {
-    "owners": ["The owners ID", "Delete this if doesn't have another bot owner."],
-    "prefix": "Your bot prefix",
-    "token": "Your bot token",
-    "dbltoken": "top.gg bot token, you can ignore this",
+    "owners": ["The owners ID", 
+    "prefix": ">>",
+    "token": "ODA3NTAxNDU5MzQ4MjU4ODM2.YB46Vg.3jBwHNE49KWVcN6GockMbckyfNY",
+
     "mongoose": "MongoDB uri",
     "shard": // Number of shards,
     "canary": true
